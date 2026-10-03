@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sale Page"
+  short_description: "ถามสั้น ๆ แล้วสร้างหน้าขายหน้าเดียว พร้อมส่งลิงก์ปิดการขาย"
+  default_prompt: "ใช้ $sale-page สร้างหน้าขายให้สินค้านี้"
